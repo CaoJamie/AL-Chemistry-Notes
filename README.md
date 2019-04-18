@@ -7,6 +7,7 @@ DO NOT believe any part of this notes
 Reference to AS knowledge can be found here: [AS Chemistry Notes](https://github.com/CaoJamie/AS-Chemistry-Notes)
 
 In some cases the pdf may failed to open in the browser say you may need to download it to read it
+the LaTeX form is still under construction and any help would be appreciated via the form of pull request for that
 
 ## Copyright Disclaimer
 Every Reasonable Effort had been made to trace the reference material owner, but in any concern the repo hold no responsibility for it and wish the copyright holder to directly contact the repo for those materials
